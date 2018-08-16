@@ -4,7 +4,7 @@
 ******
 ### catalog
 - base
-  1. [Lua Performance Tips](./basic/Lua\ Performance\ Tips.pdf)
+  1. [Lua Performance Tips](./basic/Lua%20Performance%20Tips.pdf)
 
 - db
   1. [leveldb实现解析](./db/leveldb/leveldb实现解析.pdf) - [[Source Code]](https://github.com/google/leveldb)
